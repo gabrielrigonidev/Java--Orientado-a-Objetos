@@ -2,7 +2,6 @@
 description: >-
   Nessa seção estará listados por TÓPICOS os principais pontos desse paradigma
   tão importante do mundo Java
-icon: box
 ---
 
 # Conteúdos POO
